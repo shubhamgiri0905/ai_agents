@@ -20,8 +20,8 @@
 4. **Set up environment variables**:
   
    
-   # Edit .env and add your OpenAI API key
-   # OPENAI_API_KEY=sk-your_openai_key_here
+   Edit .env and add your OpenAI API key
+   OPENAI_API_KEY=sk-your_openai_key_here
 
 
 4. **Test the agent**:
